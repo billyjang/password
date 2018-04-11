@@ -1,0 +1,16 @@
+Moderate
+
+01: snowball12
+05: 3.1415926535
+06: dogsandcats
+13: password123
+17: bananacustard
+23: 1a2b3c4d
+25: MaidenName
+30: AcH98
+32: poiuytrewq
+35: password1234567890
+43: tulmultuous
+49: kamikaze123
+59: tr0mb0n3
+60: 5f4dcc3b5aa765d61d8327deb882cf99
